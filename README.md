@@ -14,22 +14,22 @@
  
 ## 1. Paytm Home clone.
 
-# 🚀 [LiVE PROJECT LINK](https://exquisite-mermaid-d537e6.netlify.app/) 
-# [Source code](https://github.com/Ankush8950/PaytmClone)
+## 🚀 [LiVE PROJECT LINK](https://exquisite-mermaid-d537e6.netlify.app/) 
+## [Source code](https://github.com/Ankush8950/PaytmClone)
 
 ![paytm clone](./image/PaytmClone.png)
 
 ## 2. shopify Home clone
 
-# 🚀 [LiVE PROJECT LINK](https://statuesque-centaur-5ea6ce.netlify.app/) 
-# [Source code](https://github.com/Ankush8950/shopify-Clone)
+## 🚀 [LiVE PROJECT LINK](https://statuesque-centaur-5ea6ce.netlify.app/) 
+## [Source code](https://github.com/Ankush8950/shopify-Clone)
 
 ![shopify clone](./image/shopifyClone.png)
 
 ## 3. Rode Home clone
  
 
-# 🚀 [LiVE PROJECT LINK](https://velvety-genie-9718a9.netlify.app/) 
-# [Source code](https://github.com/Ankush8950/rode-clone)
+## 🚀 [LiVE PROJECT LINK](https://velvety-genie-9718a9.netlify.app/) 
+## [Source code](https://github.com/Ankush8950/rode-clone)
 
 ![Rode clone](./image/rode.png)
